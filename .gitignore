@@ -1,0 +1,63 @@
+# Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+
+# Asset meta data should only be ignored when the corresponding asset is also ignored
+# Uncomment if necessary:
+# *.pidb.meta
+# *.pdb.meta
+# *.mdb.meta
+# *.mp3.meta
+# *.mp4.meta
+# *.wav.meta
+# *.ogv.meta
+# *.png.meta
+# *.jpg.meta
+# *.tga.meta
+# *.dds.meta
+# *.tiff.meta
+# *.fbx.meta
+# *.anim.meta
+# *.controller.meta
+# *.txt.meta
+# *.otf.meta
+# *.ttf.meta
+# *.fontsettings.meta
+# *.prefab.meta
+# *.asset.meta
+# *.mat.meta
+# *.physicMaterial.meta
+# *.shader.meta
+
+# Auto-generated files for Visual Studio
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Unity3D generated files
+*.unitypackage
+
+# WebGL build files
+WebGLTemplates/
+
+# Exclude script assemblies
+Assembly-CSharp-Editor.csproj
+Assembly-CSharp.csproj
+Assembly-CSharp-firstpass.csproj
+Assembly-CSharp-Editor-firstpass.csproj
+*.csproj
+*.sln
+
