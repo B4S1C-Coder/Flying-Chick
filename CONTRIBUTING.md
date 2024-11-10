@@ -1,4 +1,4 @@
-# Contributing to My Awesome Project
+# Contributing to Flying Chick
 
 Thank you for your interest in contributing to this project! We welcome contributions and appreciate your efforts to help improve the project.
 
